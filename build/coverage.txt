@@ -1,0 +1,56 @@
+
+
+Code Coverage Report:      
+  2022-12-13 02:20:04      
+                           
+ Summary:                  
+  Classes: 67.86% (19/28)  
+  Methods: 79.59% (39/49)  
+  Lines:   92.73% (357/385)
+
+App\Console\Kernel
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+App\Exceptions\Handler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\BrandResource
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 61/ 61)
+App\Filament\Resources\BrandResource\Pages\EditBrand
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\BrandResource\Pages\ListBrands
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\BrandResource\RelationManagers\ProductsRelationManager
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 35/ 35)
+App\Filament\Resources\CategoryResource
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 53/ 53)
+App\Filament\Resources\CategoryResource\Pages\EditCategory
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\CategoryResource\Pages\ListCategories
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\CustomerResource
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 50/ 50)
+App\Filament\Resources\CustomerResource\Pages\EditCustomer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\CustomerResource\Pages\ListCustomers
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\ProductResource
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (129/129)
+App\Filament\Resources\ProductResource\Pages\EditProduct
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Filament\Resources\ProductResource\Pages\ListProducts
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Models\Brand
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Models\Category
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+App\Models\Product
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+App\Models\User
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Providers\AppServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+App\Providers\AuthServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+App\Providers\EventServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+App\Providers\RouteServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  88.89% (  8/  9)
